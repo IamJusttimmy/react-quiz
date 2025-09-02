@@ -152,6 +152,7 @@ progress {
 }
 
 .btn-option {
+  min-width: 600px;
   width: 100%;
   text-align: left;
 }
